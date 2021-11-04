@@ -1,0 +1,6 @@
+Terdapat 4 buah cangkir kosong (4, 9, 5, 7) yang akan di isi dengan kopi. Berdasarkan ilustrasi gambar di bawah, tentukan cangkir mana yang terisi lebih dahulu serta berikan penjelasannya!
+
+
+Cangkir 5 akan terisi dengan kopi terlebih dahulu karena hanya cangkir 5 yang memiliki pipa yang berlubang sehingga bisa dialiri dengan kopi. 
+
+Cangkir 4, 9, dan 7 tidak akan terisi dengan kopi karena pipa tersumbat/tidak berlubang sehingga tidak bisa dialiri dengan kopi.
